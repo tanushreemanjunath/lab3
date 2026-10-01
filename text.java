@@ -1,4 +1,4 @@
-class Student {
+public class text {
     public static void main(String[] args) {
 
         String name = "Rahul";
